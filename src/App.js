@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import Table from './Table';
 import Form from './Form';
 
+// From https://www.taniarascia.com/getting-started-with-react/
+
 class App extends Component {
   state = {
     characters: []
